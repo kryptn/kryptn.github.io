@@ -1,2 +1,9 @@
 # homepage
-My home page
+
+My home page.
+
+run with:
+
+    docker-compose up -d
+
+
