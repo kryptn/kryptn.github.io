@@ -1,6 +1,8 @@
 # homepage
 
-My home page.
+[My home page.](http://dbibb.com)
+
+Requires Docker and docker-compose
 
 run with:
 
